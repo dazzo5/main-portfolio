@@ -68,7 +68,7 @@ export default function Home() {
               at the University of Central Florida.
             </p>
             <p className="mb-4">
-              My story starts in January of 2023, where I enrolled in 
+              My story starts in January of 2023, when I enrolled in 
               Valencia College to complete my AA and transition to UCF through a 
               Computer Science degree pathway. While studying at Valencia, I maintained a 3.5 GPA and
               completed my prerequisite classes. At the same time, I spent many hours
@@ -87,7 +87,7 @@ export default function Home() {
               Currently, I&apos;m a Valet Attendant at Universal's Orlando Resorts,
               where I demonstrate my skills in communication, leadership, and the ability to
               work in fast-paced environments. I am continuing to seek involvement in coding practices while at UCF 
-              to only enhance my programming skills and soon acquire a Software Developer position in a work environment.
+              to only enhance my programming skills and soon acquire a Software Developer position.
             </p>
           </div>
         </div>
@@ -108,7 +108,7 @@ export default function Home() {
               </a>
             </li>
             <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
-              <a href="https://github.com/dazzo5/main-portfolio.github.io" target="_blank">
+              <a href="https://github.com/dazzo5/main-portfolio" target="_blank">
                 <div className="mb-4 text-lg font-bold">This Website!</div>
                 <p className="mb-6 text-sm">
                   My Portfolio website that has an introduction, about me, project, and contact section.
@@ -125,7 +125,7 @@ export default function Home() {
             Contact
           </div>
           <p className="mb-12 text-center">
-            I&apos;m always open to learn and enhance my programming skills, and the 
+            I&apos;m always open to learning and enhancing my programming skills, and the 
             best way to reach out is through my email. If you have a question or simply just want to say hi, I&apos;ll 
             get  back to you as soon as I can!
             </p>

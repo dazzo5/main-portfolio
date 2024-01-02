@@ -50,7 +50,7 @@ export default function Home() {
             className="border border-blue-200 px-6 py-3 font-bold transition hover:bg-blue-200 hover:text-gray-900">
               View My Projects
             </a>
-            <a href="randazzoresume.pdf" className="whitespace-nowrap border border-blue-200 bg-blue-200 px-6 py-3 font-bold text-gray-900 transition hover:bg-gray-900 hover:text-blue-200"
+            <a href="#" className="whitespace-nowrap border border-blue-200 bg-blue-200 px-6 py-3 font-bold text-gray-900 transition hover:bg-gray-900 hover:text-blue-200"
             target="_blank"
             rel="noopener noreferrer"
             >

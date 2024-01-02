@@ -68,11 +68,9 @@ export default function Home() {
               at the University of Central Florida.
             </p>
             <p className="mb-4">
-              My story starts in January of 2023, when I enrolled in 
-              Valencia College to complete my AA and transition to UCF through a 
-              Computer Science degree pathway. While studying at Valencia, I maintained a 3.5 GPA and
-              completed my prerequisite classes. At the same time, I spent many hours
-              teaching myself how to code using various resources online.
+              I have spent countless hours exposing myself to many different technologies and frameworks
+              outside of the classroom. 
+
             </p>
             <p className="mb-4">Here are some that I&apos;ve been using:</p>
             <ul className="mb-4 grid grid-cols-2 whitespace-nowrap">

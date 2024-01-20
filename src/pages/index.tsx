@@ -69,17 +69,17 @@ export default function Home() {
             </p>
             <p className="mb-4">
               I have spent countless hours exposing myself to many different technologies and frameworks
-              outside of the classroom. 
+              outside of the classroom, and I do this by creating various personal projects.
 
             </p>
-            <p className="mb-4">Here are some that I&apos;ve been using:</p>
+            <p className="mb-4">Here are my favorite technologies that I&apos;ve been using:</p>
             <ul className="mb-4 grid grid-cols-2 whitespace-nowrap">
               <li className="list-inside list-disc">Python</li>
-              <li className="list-inside list-disc">HTML</li>
-              <li className="list-inside list-disc">CSS/Tailwind CSS</li>
+              <li className="list-inside list-disc">Flask</li>
+              <li className="list-inside list-disc">MERN</li>
               <li className="list-inside list-disc">Javascript</li>
-              <li className="list-inside list-disc">ReactJS</li>
-              <li className="list-inside list-disc">NextJS</li>
+              <li className="list-inside list-disc">SQL</li>
+              <li className="list-inside list-disc">HTML/CSS</li>
             </ul>
             <p>
               Currently, I&apos;m a Valet Attendant at Universal's Orlando Resorts,
@@ -95,6 +95,19 @@ export default function Home() {
           </div>
           <ul className="grid auto-rows-fr grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
             <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
+              <a href="https://github.com/dazzo5/socialblog.github.io" target="_blank">
+                <div className="mb-4 text-lg font-bold">Social Company Blog App</div>
+                <p className="mb-6 text-sm">
+                  Developed a fully functional Social Blog Platform enabling users to register, create, edit, and delete blog posts, manage their accounts, and interact with other users’ content. 
+                  Demonstrated proficiency in handling errors, user authentication, connecting the backend to a database, utilizing Python OOP principles, Functions/Decorators, Flask Blueprints, CRUD, and HTML templates.
+                </p>
+                <ul className="mt-auto flex flex-wrap gap-x-5 gap-y-1.5 text-xs">
+                  <li>Python, Flask, SQlite, HTML, Bootstrap</li>
+                </ul>
+              </a>
+            </li>
+            
+            <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
               <a href="https://github.com/dazzo5/file-automator.github.io" target="_blank">
                 <div className="mb-4 text-lg font-bold">Python File Organizer</div>
                 <p className="mb-6 text-sm">
@@ -105,17 +118,23 @@ export default function Home() {
                 </ul>
               </a>
             </li>
+            
             <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
               <a href="https://github.com/dazzo5/main-portfolio" target="_blank">
                 <div className="mb-4 text-lg font-bold">This Website!</div>
                 <p className="mb-6 text-sm">
-                  My Portfolio website that has an introduction, about me, project, and contact section.
+                  My portfolio website is designed to showcase my projects and skills, featuring sections for an introduction, about me, and a dedicated project showcase. It utilizes technologies like React, Next.js, TypeScript, is hosted on Vercel, 
+                  and styled with Tailwind CSS to create an engaging and visually appealing presentation of my work
+
+
+
                 </p>
                 <ul className="mt-auto flex flex-wrap gap-x-5 gap-y-1.5 text-xs">
-                  <li>Tailwind CSS, Git/GitHub, React, Next.js, Node.js, TypeScript, Vercel</li>
+                  <li>React, Next.js, TypeScript, Vercel, Tailwind CSS</li>
                 </ul>
               </a>
             </li>
+            
           </ul>
         </div>
         <div className="mx-auto mb-48 max-w-2x1 flex-col px-8">

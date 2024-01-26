@@ -50,7 +50,7 @@ export default function Home() {
             className="border border-blue-200 px-6 py-3 font-bold transition hover:bg-blue-200 hover:text-gray-900">
               View My Projects
             </a>
-            <a href="domsresume.pdf" className="whitespace-nowrap border border-blue-200 bg-blue-200 px-6 py-3 font-bold text-gray-900 transition hover:bg-gray-900 hover:text-blue-200"
+            <a href="domsummer.pdf" className="whitespace-nowrap border border-blue-200 bg-blue-200 px-6 py-3 font-bold text-gray-900 transition hover:bg-gray-900 hover:text-blue-200"
             target="_blank"
             rel="noopener noreferrer"
             >
@@ -76,9 +76,9 @@ export default function Home() {
             <ul className="mb-4 grid grid-cols-2 whitespace-nowrap">
               <li className="list-inside list-disc">Python</li>
               <li className="list-inside list-disc">Flask</li>
-              <li className="list-inside list-disc">MERN</li>
+              <li className="list-inside list-disc">MERN Stack</li>
               <li className="list-inside list-disc">Javascript</li>
-              <li className="list-inside list-disc">SQL</li>
+              <li className="list-inside list-disc">TypeScript</li>
               <li className="list-inside list-disc">HTML/CSS</li>
             </ul>
             <p>
@@ -94,6 +94,20 @@ export default function Home() {
             Projects
           </div>
           <ul className="grid auto-rows-fr grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+            
+            <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
+              <a href="https://github.com/dazzo5/supticketproject.github.io" target="_blank">
+                <div className="mb-4 text-lg font-bold">Support Ticket System</div>
+                <p className="mb-6 text-sm">
+                  Created a MERN stack application with MongoDB integration via Mongoose, enabling user registration, login/logout, and support ticket submission for an efficient and user-friendly experience.
+                  Developed a RESTful API system, proficiently handling request types, error handling, database integration, secure route management, JWT token-based authorization using tools like POSTman and Rest Client.
+                </p>
+                <ul className="mt-auto flex flex-wrap gap-x-5 gap-y-1.5 text-xs">
+                  <li>MongoDB, Express.js, React.js, Node.js, APIs, Bootstrap, CSS</li>
+                </ul>
+              </a>
+            </li>
+            
             <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
               <a href="https://github.com/dazzo5/socialblog.github.io" target="_blank">
                 <div className="mb-4 text-lg font-bold">Social Company Blog App</div>
@@ -103,6 +117,18 @@ export default function Home() {
                 </p>
                 <ul className="mt-auto flex flex-wrap gap-x-5 gap-y-1.5 text-xs">
                   <li>Python, Flask, SQlite, HTML, Bootstrap</li>
+                </ul>
+              </a>
+            </li>
+
+            <li className="flex flex-col bg-gray-800 p-7 transition-transform hover:-translate-y-2">
+              <a href="https://github.com/dazzo5/pythonsortvisual.github.io" target="_blank">
+                <div className="mb-4 text-lg font-bold">Sorting Algorithm Visualizer</div>
+                <p className="mb-6 text-sm">
+                  Designed and implemented a sorting algorithm visualizer utilizing Python and Pygame, providing real-time visualization and analysis of sorting algorithms, including Bubble, Insertion, Select and Shell Sorts.
+                </p>
+                <ul className="mt-auto flex flex-wrap gap-x-5 gap-y-1.5 text-xs">
+                  <li>Python, Pygame, Algorithms</li>
                 </ul>
               </a>
             </li>

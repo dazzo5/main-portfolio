@@ -85,7 +85,7 @@ export default function Home() {
               Currently, I&apos;m a Valet Attendant at Universal's Orlando Resorts,
               where I demonstrate my skills in communication, leadership, and the ability to
               work in fast-paced environments. I am continuing to seek involvement in coding practices while at UCF 
-              to only enhance my programming skills and soon acquire a Software Developer position.
+              only to enhance my programming skills and soon acquire a Software Developer position.
             </p>
           </div>
         </div>

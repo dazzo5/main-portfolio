@@ -43,7 +43,7 @@ export default function Home() {
             Dominick Randazzo.
           </div>
           <div className="mb-6 text-2xl font-semibold md:text-3xl lg:text-4xl xl:text-5xl">
-            I&apos;m a Software Developer and Computer Science Student.
+            I&apos;m a Information Technology and Cyber Security Student.
           </div>
           <div className="flex flex-wrap gap-4">
             <a href="#projects" 
@@ -64,7 +64,7 @@ export default function Home() {
           </div>
           <div className="max-w-lg">
             <p className="mb-4">
-              Hey! My name is Dominick, and I&apos;m a Computer Science student studying
+              Hey! My name is Dominick, and I&apos;m a IT and Cyber Security student studying
               at the University of Central Florida.
             </p>
             <p className="mb-4">
@@ -84,8 +84,8 @@ export default function Home() {
             <p>
               Currently, I&apos;m a Valet Attendant at Universal's Orlando Resorts,
               where I demonstrate my skills in communication, leadership, and the ability to
-              work in fast-paced environments. I am continuing to seek involvement in coding practices while at UCF 
-              only to enhance my programming skills and soon acquire a Software Developer position.
+              work in fast-paced environments. I am continuing to seek involvement in coding practices while studying for industry standard IT certifications at UCF 
+              only to enhance my programming skills and soon acquire a position in tech.
             </p>
           </div>
         </div>
